@@ -1,0 +1,30 @@
+@import "static";
+@import "header";
+@import "home";
+@import "animation";
+@import "contact";
+@import "footer";
+@import "mediaquerry";
+
+
+@import 'work';
+*{
+    padding: 0;margin: 0;
+    font-family: $text1;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background: $color1;
+    overflow-x: hidden ;
+}
+.disableBtn {
+    color: $color6 !important;
+    background: rgb(250, 167, 167) !important;
+    // background: black ;
+    cursor: not-allowed I !important;
+}
+
