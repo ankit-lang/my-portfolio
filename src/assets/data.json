@@ -2,9 +2,9 @@
     "projects": [
       {
         
-        "title": "TECHY STAR",
-        "description": "This is the sample use of react power to create multiple pages app with fuctionalities.To know more visit by clicking below button ",
-        "url": "https://reacta-2hpo0q5fz-ankit-lang.vercel.app/#home",
+        "title": "Chat App",
+        "description": "Web-based platform that allows users to search, and chat with other users, providing a realtime communication. ",
+        "url": "https://chatapp-backend-fz9q.onrender.com/",
         "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
       },
   
