@@ -34,8 +34,8 @@
       {
         "date": "20/10/2022",
         "title": "PORTFOLIO",
-        "description": "This is my profile showing my projects and if you want to see more please visit my github",
-        "url": "/",
+        "description": "This is my 3Dprofile showing my projects and cool stuff ",
+        "url": "https://3dportfolio-tau-one.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
       }
     ]
