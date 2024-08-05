@@ -5,7 +5,7 @@
         "title": "Chat App",
         "description": "Web-based platform that allows users to search, and chat with other users, providing a realtime communication. ",
         "url": "https://chatapp-backend-fz9q.onrender.com/",
-        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+        "imgSrc": "https://i.pinimg.com/236x/4d/ad/76/4dad760f72747856842fd6956882c12f.jpg"
       },
       {
         
@@ -43,14 +43,14 @@
         "title": "PORTFOLIO",
         "description": "This is my 3Dprofile showing my projects and cool stuff ",
         "url": "https://3dportfolio-tau-one.vercel.app/",
-        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        "imgSrc": "https://i.pinimg.com/236x/2b/8d/68/2b8d6820549b3279691229f9c42fc455.jpg"
       },
       {
         "date": "20/10/2022",
         "title": "Movie Reviewer ",
         "description": "This website similar IMDB for checking latest movie review  ",
         "url": "https://imdbcloneee.netlify.app/",
-        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+        "imgSrc": "https://i.pinimg.com/236x/b2/2f/60/b22f6029515085f266065b9ec8a1c188.jpg"
       }
     ]
   }
